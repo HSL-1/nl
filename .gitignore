@@ -1,0 +1,11 @@
+# 南江水库原始数据（保密！）
+reservoir_data.json
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 临时文件
+*.tmp
+*.bak
